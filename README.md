@@ -6,5 +6,5 @@ This repository provides the **Magma** implementation of the algorithm proposed 
 If you would like to enumerate superspecial hyperelliptic curves of genus 4 in characteristic 23, use the following command:
 
 ```bash
-magma g:=4 p:=23 main.m;
+magma g:=4 p:=23 main.m
 ```
